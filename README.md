@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: http://192.168.113.250:8080/
+**URL**: https://rna-model-delta.vercel.app/
 
 
 ```sh
