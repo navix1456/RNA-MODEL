@@ -40,7 +40,7 @@ const Header: React.FC = () => {
               <TooltipTrigger asChild>
                 <Button variant="ghost" size="icon" asChild>
                   <a
-                    href="https://github.com/yourusername/rna-visualizer"
+                    href="https://github.com/navix1456/RNA-MODEL"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub Repository"
